@@ -1,0 +1,51 @@
+# stem
+stem/.DS_Store
+stem/node_modules/
+stem/package-lock.json
+stem/npm-debug.log*
+stem/yarn-debug.log*
+stem/yarn-error.log*
+stem/yarn.lock
+stem/package.lock
+
+# Editor directories and files
+stem/.env
+stem/.idea
+stem/.vscode
+stem/*.suo
+stem/*.ntvs*
+stem/*.njsproj
+stem/*.sln
+
+# UI
+ui/.DS_Store
+ui/node_modules
+ui/dist
+
+# local env files
+#.env.local
+#.env.*.local
+ui/.env
+
+# Log files
+ui/npm-debug.log*
+ui/yarn-debug.log*
+ui/yarn-error.log*
+ui/yarn.lock
+ui/package.lock
+
+# Editor directories and files
+ui/.idea
+ui/.vscode
+ui/*.suo
+ui/*.ntvs*
+ui/*.njsproj
+ui/*.sln
+ui/*.sw?
+
+
+
+
+
+
+
